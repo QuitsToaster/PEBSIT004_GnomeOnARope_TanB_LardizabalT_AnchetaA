@@ -49,9 +49,9 @@ File > Build Settings > Build and Run
 **SRT File Location: Assets/Docs/gnome_demo_subtitles.srt**
 
 ## Group Members & Contributions
-**Ancheta, Arem M. - Documenter**
-**Lardizabal, Timothy - Documenter**
-**Tan, Bryan Lloyd T. - Leader, Developer**
+  - Ancheta, Arem M. → Documenter  
+  - Lardizabal, Timothy M. → Documenter 
+  - Tan, Bryan Lloyd T. → Leader, Developer
 
 ## Date of Final Commit / Release
 

@@ -39,24 +39,21 @@ A 2D Unity game where players guide a daring gnome swinging on ropes and explori
 
 File > Build Settings > Build and Run
 
-**Known Issues / Limitations**
-Physics-based swinging may behave inconsistently at very high frame rates.
+## Known Issues / Limitations
+**Physics-based swinging may behave inconsistently at very high frame rates.**
+**Touch controls are experimental and may not work on all devices.**
+**No save/load system implemented yet (progress resets each session).**
 
-Touch controls are experimental and may not work on all devices.
+## Video Demo
+**YouTube (Unlisted): [Insert Link Here]**
+**SRT File Location: Assets/Docs/gnome_demo_subtitles.srt**
 
-No save/load system implemented yet (progress resets each session).
+## Group Members & Contributions
+**Ancheta, Arem M. - Documenter**
+**Lardizabal, Timothy - Documenter**
+**Tan, Bryan Lloyd T. - Leader, Developer**
 
-**Video Demo**
-YouTube (Unlisted): [Insert Link Here]
-
-SRT File Location: Assets/Docs/gnome_demo_subtitles.srt
-
-**Group Members & Contributions**
-Ancheta, Arem M. - Documenter
-Lardizabal, Timothy - Documenter
-Tan, Bryan Lloyd T. - Leader, Developer
-
-**Date of Final Commit / Release**
+## Date of Final Commit / Release
 
 
 

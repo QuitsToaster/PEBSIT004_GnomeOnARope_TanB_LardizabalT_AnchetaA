@@ -29,7 +29,7 @@ A 2D Unity game where players guide a daring gnome swinging on ropes and explori
    ```bash
    git clone https://github.com/QuitsToaster/PEBSIT004_GnomeOnARope_TanB_LardizabalT_AnchetaA.git
 
-2. Open the project in Unity 2021.3.5f1 (or newer LTS version).
+2. Open the project in Unity 3.14.0.
 
 3. Load the main scene:
 

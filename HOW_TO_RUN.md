@@ -1,13 +1,11 @@
-Here you go — the **complete `STEPS_TO_RUN.md`** in ready-to-paste GitHub Markdown format:
 
-````markdown
 # Steps to Run Gnome on a Rope / Gnomes Well
 
 ## Opening in Unity Editor
 1. **Clone or Download the Repository**  
    ```bash
    git clone https://github.com/QuitsToaster/PEBSIT004_GnomeOnARope_TanB_LardizabalT_AnchetaA.git
-````
+   
 
 Or download as ZIP → extract to a local folder.
 

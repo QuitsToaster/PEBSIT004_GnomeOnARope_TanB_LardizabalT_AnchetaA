@@ -22,7 +22,7 @@ Or download as ZIP → extract to a local folder.
 
 4. **Run the Game in Editor**
 
-   * Press the **Play ▶️ button** on the top bar to start the game.
+   * Press the **Play button** on the top bar to start the game.
 
 ---
 

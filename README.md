@@ -37,8 +37,8 @@ File > Build Settings > Build and Run
 
 ## Video
 **YouTube (Unlisted): https://youtu.be/N7_iL8LAEng**
-**SRT File Location: PEBSIT004_GnomeOnARope_TanB_LardizabalT_AnchetaA/subtitle/Gnome's well that ends well.srt
-**
+**SRT File Location: PEBSIT004_GnomeOnARope_TanB_LardizabalT_AnchetaA/subtitle/Gnome's well that ends well.srt**
+
 
 ## Group Members & Contributions
   - Ancheta, Arem M. → Documenter  

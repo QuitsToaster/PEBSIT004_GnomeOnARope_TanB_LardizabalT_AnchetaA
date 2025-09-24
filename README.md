@@ -11,18 +11,9 @@ A 2D Unity game where players guide a daring gnome swinging on ropes and explori
 - **Language:** C#  
 
 ## Controls
-- **Keyboard:**  
-  - `Arrow Keys / WASD` → Move  
-  - `Space` → Jump / Swing release  
-  - `R` → Restart level  
-
-- **Gamepad (Optional):**  
-  - Left stick → Move  
-  - `A` → Jump / Swing release  
-
-- **Touch (if enabled):**  
-  - Swipe left/right → Move  
-  - Tap → Jump / Swing release  
+- **Touch:**  
+  - Tap up/down button → Move  
+  - Tilt phone → Turn / Swing  
 
 ## How to Run
 1. Clone or download this repository:  
@@ -44,9 +35,10 @@ File > Build Settings > Build and Run
 **Touch controls are experimental and may not work on all devices.**
 **No save/load system implemented yet (progress resets each session).**
 
-## Video Demo
-**YouTube (Unlisted): [Insert Link Here]**
-**SRT File Location: Assets/Docs/gnome_demo_subtitles.srt**
+## Video
+**YouTube (Unlisted): https://youtu.be/N7_iL8LAEng**
+**SRT File Location: PEBSIT004_GnomeOnARope_TanB_LardizabalT_AnchetaA/subtitle/Gnome's well that ends well.srt
+**
 
 ## Group Members & Contributions
   - Ancheta, Arem M. → Documenter  
